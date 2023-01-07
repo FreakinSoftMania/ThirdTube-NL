@@ -1,4 +1,4 @@
-# ThirdTube
+# ThirdTube-NL
 
 A work-in-progress homebrew YouTube client for the 3DS  
 [GBAtemp Thread](https://gbatemp.net/threads/release-thirdtube-a-homebrew-youtube-client-for-the-new-3ds.591696/)  
