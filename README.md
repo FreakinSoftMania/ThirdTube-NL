@@ -92,7 +92,7 @@ door de Brotli-auteurs onder MIT-licentie
 ### [stb](https://github.com/nothings/stb/)
 door Sean Barrett onder MIT-licentie en publiek domein
 
-## Kredieten
+## Credits
 * Core 2 Extreme
    Voor [Videospeler voor 3DS](https://github.com/Core-2-Extreme/Video_player_for_3DS) waarop deze app is gebaseerd.
    Het behoeft geen betoog dat de functionaliteit voor het afspelen van video's essentieel is voor deze app, en het zou niet mogelijk zijn geweest om deze software te ontwikkelen zonder dat hij zijn tijd besteedde aan het optimaliseren van de code, soms zelfs met montage en het onderzoeken van HW-decodering op de nieuwe 3DS.
