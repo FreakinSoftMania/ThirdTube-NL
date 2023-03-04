@@ -1,6 +1,6 @@
 # ThirdTube-NL
 
-Een in werk voortgang homebrew YouTube client voor de 3DS in het Nederlands vertaald
+Een in werk voortgang homebrew YouTube client voor de 3DS in het Nederlands vertaald  
 [GBAtemp-thread](https://gbatemp.net/threads/release-thirdtube-a-homebrew-youtube-client-for-the-new-3ds.591696/)  
 [Discord-server (alleen Engels)](https://discord.gg/CVcThBCQJM)
 
